@@ -5,13 +5,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Anthony's Personal Site</title>
+
 </head>
 
 <body>
   <table cellspacing="20">
     <tr>
-
       <td>
         <h1>Anthony Patricca</h1>
       </td>
@@ -40,14 +39,10 @@
     </thead>
     <tbody>
       <tr>
-        <td>2003-2018</td>
+        <td>2003-2021</td>
         <td>Information Security Analyst at Wells Fargo</td>
       </tr>
-      <tr>
-        <td>1994-2003</td>
-        <td>Senior Manufacturing Specialist at Motorola</td>
-      </tr>
-    </tbody>
+        </tbody>
   </table>
   <hr>
   <h3>Skills</h3>
@@ -56,7 +51,7 @@
     <tbody>
       <tr>
         <td>Security</td>
-        <td>⭐⭐⭐⭐⭐</td>
+        <td>⭐⭐⭐⭐</td>
         <td>Networking</td>
         <td>⭐⭐⭐</td>
       </tr>
@@ -68,8 +63,7 @@
       </tr>
     </tbody>
 
-    </td>
-    </tr>
+  
   </table>
 
   <hr>
